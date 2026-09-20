@@ -59,16 +59,6 @@
 
 ---
 
-### 📊 Actividad en GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoev309-lgtm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=58A6FF" height="155" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoev309-lgtm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7" height="155" />
-</div>
-
----
-
 ### 📬 Conectemos
 
 <div align="center">
