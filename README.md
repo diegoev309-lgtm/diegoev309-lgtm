@@ -72,9 +72,6 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
       </p>
-      <p>
-        👉 <a href="https://github.com/diegoev309-lgtm/lzapp_project"><b>Explorar código del proyecto en GitHub →</b></a>
-      </p>
     </td>
   </tr>
 </table>
