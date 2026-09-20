@@ -51,33 +51,6 @@
 
 ---
 
-### 🚀 Proyecto Destacado
-
-<table>
-  <tr>
-    <td>
-      <h3>🧀 <a href="https://github.com/diegoev309-lgtm/lzapp_project">LzApp — Sistema E-commerce & Control de Inventario</a></h3>
-      <p>Plataforma web integral desarrollada a medida para <b>Lácteos Zulianos</b> (empresa dedicada a la producción y comercialización de quesos artesanales):</p>
-      <ul>
-        <li>🔍 <b>Catálogo Dinámico & Carrito:</b> Búsqueda reactiva en vivo, navegación fluida y checkout paso a paso.</li>
-        <li>💳 <b>Pasarela de Pagos:</b> Integración directa y procesamiento de transacciones con <b>Mercado Pago</b>.</li>
-        <li>📦 <b>Panel Administrativo:</b> Control en tiempo real de existencias (stock), gestión de productos y órdenes de producción.</li>
-      </ul>
-      <p>
-        <b>Stack Tecnológico:</b>
-        <br/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🧩 Competencias Clave
 
 - 🤝 **Liderazgo y Colaboración:** Capacidad demostrada para articular trabajo multidisciplinario, comunicación efectiva y sinergia en equipo.
